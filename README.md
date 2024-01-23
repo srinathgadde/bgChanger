@@ -1,2 +1,4 @@
-#bgChanger react-app
+# bgChanger
+
+react-app
 Background color changer
